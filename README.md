@@ -1,38 +1,184 @@
-<h1 align="center">Hi 👋, I'm Abhinav Pandey</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Generative AI Enthusiast from India</h3>
+<!-- ========== ANIMATED HEADER ========== -->
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abhinavDir&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavDir" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Abhinav%20Pandey&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20GenAI%20Engineer&descAlignY=58&color=gradient&animation=fadeIn" width="100%" alt="Abhinav Pandey Header"/>
+
+<a href="https://github.com/abhinavDir">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Full+Stack+Applications;Exploring+Generative+AI+%26+LLMs;Learning+Backend+Engineering;Turning+Ideas+Into+Real+Products" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/abhinavDir">
+  <img src="https://komarev.com/ghpvc/?username=abhinavDir&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+</a>
+<a href="https://github.com/abhinavDir?tab=followers">
+  <img src="https://img.shields.io/github/followers/abhinavDir?style=for-the-badge&color=blue&label=Followers" alt="GitHub Followers"/>
+</a>
+<a href="https://github.com/abhinavDir?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My_Repositories-181717?style=for-the-badge&logo=github" alt="Explore Repositories"/>
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Abhinav Pandey**, a developer from India interested in building useful products with modern web technologies and Generative AI.
+
+- 💻 Building full-stack applications using the MERN stack.
+- 🤖 Exploring LLMs, RAG pipelines, AI agents and AI-powered applications.
+- ⚙️ Improving my backend engineering and system design skills.
+- 🔐 Interested in authentication, APIs, databases and scalable architectures.
+- 🚀 Focused on building practical projects that solve real problems.
+- 🤝 Open to collaborating on interesting full-stack and GenAI projects.
+
+**My approach:** Learn by building, improve through experimentation, and write code that solves real problems.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind&perline=8" alt="Frontend Skills"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=abhinavDir&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring&perline=8" alt="Backend Skills"/>
 </p>
 
-- 🌱 I’m currently learning **LangChain, LangGraph, RAG, AI Agents, Redis, System Design and Backend Engineering**
+### Databases & Infrastructure
 
-- 👯 I’m looking to collaborate on **Open Source MERN & GenAI Projects**
-
-- 🤝 I’m looking for help with **Building Scalable AI Applications**
-
-- 👨‍💻 All of my projects are available at [https://abhinavpandey-three.vercel.app](https://abhinavpandey-three.vercel.app)
-
-- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, REST APIs, LangChain and Generative AI**
-
-- 📫 How to reach me **abhinavpandey091@gmail.com**
-
-- ⚡ Fun fact **I love turning ideas into real-world applications using code and AI.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhinavpandey-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinavpandey-dev" height="30" width="40" /></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,aws,nginx,git,github&perline=8" alt="Database and Infrastructure Skills"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### AI & Developer Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavdir&show_icons=true&locale=en&layout=compact" alt="abhinavdir" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,postman,vscode,figma&perline=8" alt="AI and Developer Tools"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavdir&show_icons=true&locale=en" alt="abhinavdir" /></p>
+**Currently exploring:** LangChain · LangGraph · RAG · AI Agents · LLM APIs · AI Evaluation · System Design
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavdir&" alt="abhinavdir" /></p>
+---
+
+## 🚀 Featured Projects
+
+### 💸 Split Money — Smart Expense Sharing
+
+A Splitwise-style application concept for managing shared expenses, groups and settlements.
+
+- 👥 Group expense management
+- 🧮 Expense splitting and settlement workflows
+- 📱 Designed for convenient use across devices
+
+**Tech:** React · JavaScript · Node.js · Express · MongoDB
+
+<a href="https://split-iota.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Project-2ea44f?style=for-the-badge" alt="Split Money Live Demo"/>
+</a>
+<a href="https://github.com/abhinavDir?tab=repositories">
+  <img src="https://img.shields.io/badge/💻_Source_Code-View_Repositories-181717?style=for-the-badge" alt="View Source Code"/>
+</a>
+
+### 🤖 AI Interview Assistant — In Progress
+
+An AI-powered interview preparation platform designed to help candidates practise interviews and receive feedback.
+
+- 📄 Resume-based interview preparation
+- 🎙️ Conversational AI interview sessions
+- 🧠 Exploring LLM-powered question generation and evaluation
+- 🔊 Exploring speech interaction and real-time AI responses
+
+**Planned stack:** Node.js · React · LangChain · LangGraph · Redis · LLM APIs
+
+**Status:** In development and experimentation.
+
+### 🌐 Developer Portfolio
+
+My personal space for showcasing projects and development work.
+
+<a href="https://abhinavpandey-three.vercel.app">
+  <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-Explore-0A66C2?style=for-the-badge" alt="Visit Portfolio"/>
+</a>
+
+> **More projects:** Explore my repositories for additional code, experiments and learning projects.
+
+<a href="https://github.com/abhinavDir?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-181717?style=for-the-badge&logo=github" alt="View All Projects"/>
+</a>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhinavDir&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavDir&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=abhinavDir&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=abhinavDir&theme=tokyonight&no-frame=true&margin-w=8&column=4" width="100%" alt="GitHub Achievements"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+| Area | Focus |
+|---|---|
+| Full Stack | Building complete MERN applications |
+| Backend | API design, authentication and scalable services |
+| Generative AI | LLM integration, RAG and AI agents |
+| Databases | MongoDB, PostgreSQL and Redis |
+| Engineering | System design, reliability and performance |
+| Problem Solving | Java and data structures & algorithms |
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/abhinavDir">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/abhinavpandey-dev/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="https://abhinavpandey-three.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel" alt="Portfolio"/>
+</a>
+<a href="mailto:abhinavpandey091@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+### 💡 Build. Learn. Experiment. Repeat.
+
+*Thanks for visiting my profile! Feel free to explore my repositories and connect.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" width="100%" alt="Footer"/>
+
+</div>
