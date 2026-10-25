@@ -5,10 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=abhinavDir&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavDir" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhinavDir" alt="GitHub Trophies" />
-  </a>
+<p align="center">
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=abhinavDir&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
 </p>
 
 - 🌱 I’m currently learning **LangChain, LangGraph, RAG, AI Agents, Redis, System Design and Backend Engineering**
