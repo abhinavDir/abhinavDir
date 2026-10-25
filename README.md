@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abhinav Pandey</h1>
 <h3 align="center">Full Stack Developer | MERN Stack | Generative AI Enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavdir&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavdir" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abhinavDir&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavDir" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavdir" alt="abhinavdir" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abhinavDir" alt="GitHub Trophies" />
+  </a>
+</p>
 
 - 🌱 I’m currently learning **LangChain, LangGraph, RAG, AI Agents, Redis, System Design and Backend Engineering**
 
